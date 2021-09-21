@@ -1,0 +1,7 @@
+vaderSentiment
+nltk
+textblob
+spacy
+pyspellchecker
+werkzeug
+streamlit
